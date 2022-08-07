@@ -2,7 +2,7 @@
     font-family: framework7 icons;
     font-style: normal;
     font-weight: 400;
-    src: url(https://cdn.jsdelivr.net/gh/google-clouds/sdk/Framework7Icons-Regular.woff2) format('woff2'), url(https://cdn.jsdelivr.net/gh/google-clouds/sdk/Framework7Icons-Regular.woff) format('woff'), url(https://cdn.jsdelivr.net/gh/google-clouds/sdk/Framework7Icons-Regular.ttf) format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/google-clouds/sdk/Framework7Icons-Regular.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/google-clouds/sdk/Framework7Icons-Regular.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/google-clouds/sdk/Framework7Icons-Regular.ttf') format('truetype');
     font-display: block
 }
 
