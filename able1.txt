@@ -116,6 +116,58 @@
    "placeId": "",
    "playerCount": "",
    "imageToken": "https://i.imgur.com/68fZvRA.png"
+ },
+  {
+   "creatorId": "",
+   "creatorName": "SHELL",
+   "creatorType": "",
+   "creatorHasVerifiedBadge": "",
+   "totalUpVotes": "",
+   "totalDownVotes": "",
+   "universeId": "",
+   "name": "SHELL",
+   "placeId": "",
+   "playerCount": "",
+   "imageToken": "https://i.imgur.com/bvDt3US.png"
+ },
+ {
+   "creatorId": "",
+   "creatorName": "GS-OIL",
+   "creatorType": "",
+   "creatorHasVerifiedBadge": "",
+   "totalUpVotes": "",
+   "totalDownVotes": "",
+   "universeId": "",
+   "name": "GS-OIL",
+   "placeId": "",
+   "playerCount": "",
+   "imageToken": "https://i.imgur.com/CqDvcGg.png"
+ },
+ {
+   "creatorId": "",
+   "creatorName": "S-OIL",
+   "creatorType": "",
+   "creatorHasVerifiedBadge": "",
+   "totalUpVotes": "",
+   "totalDownVotes": "",
+   "universeId": "",
+   "name": "S-OIL",
+   "placeId": "",
+   "playerCount": "",
+   "imageToken": "https://i.imgur.com/hfMdnVM.png"
+ },
+ {
+   "creatorId": "",
+   "creatorName": "HYUNDAI-OIL",
+   "creatorType": "",
+   "creatorHasVerifiedBadge": "",
+   "totalUpVotes": "",
+   "totalDownVotes": "",
+   "universeId": "",
+   "name": "HYUNDAI-OIL",
+   "placeId": "",
+   "playerCount": "",
+   "imageToken": "https://i.imgur.com/i5SSSWk.png"
  }
 ]
 ]
