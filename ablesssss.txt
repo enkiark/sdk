@@ -116,6 +116,6 @@
    "placeId": "",
    "playerCount": "",
    "imageToken": "https://i.imgur.com/68fZvRA.png"
- },
+ }
 ]
 ]
