@@ -117,19 +117,6 @@
    "playerCount": "",
    "imageToken": "https://i.imgur.com/68fZvRA.png"
  },
-  {
-   "creatorId": "",
-   "creatorName": "SHELL",
-   "creatorType": "",
-   "creatorHasVerifiedBadge": "",
-   "totalUpVotes": "",
-   "totalDownVotes": "",
-   "universeId": "",
-   "name": "SHELL",
-   "placeId": "",
-   "playerCount": "",
-   "imageToken": "https://i.imgur.com/bvDt3US.png"
- },
  {
    "creatorId": "",
    "creatorName": "GS-OIL",
