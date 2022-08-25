@@ -11,7 +11,7 @@
    "name": "Shell",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/ZnBgvYqj/0626c717-04a8-485b-a7cd-6d28dba9b3dc-png-PTT-Public-Company-logo-svg.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/ZnBgvYqj/0626c717-04a8-485b-a7cd-6d28dba9b3dc-png-PTT-Public-Company-logo-svg.png"
  },
  {
    "creatorId": "",
@@ -24,7 +24,7 @@
    "name": "Aramco",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/rFbVHzWy/09e30116-8f08-4ffa-bdf4-d56a1393ebf2-png-Total-Energies.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/rFbVHzWy/09e30116-8f08-4ffa-bdf4-d56a1393ebf2-png-Total-Energies.png"
  },
  {
    "creatorId": "",
@@ -37,7 +37,7 @@
    "name": "PetroChina",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/sX2by4dk/0bc4814d-cb94-4539-b31b-18d40fcf452d-png-800px-Conoco-Phillips-Logo-svg-1.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/sX2by4dk/0bc4814d-cb94-4539-b31b-18d40fcf452d-png-800px-Conoco-Phillips-Logo-svg-1.png"
  },
  {
    "creatorId": "",
@@ -50,7 +50,7 @@
    "name": "Sinopec",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/jSw5qyKJ/0edc2f31-21c3-45bf-9f88-17c7dc64841c-png-Sinopec-Logo.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/jSw5qyKJ/0edc2f31-21c3-45bf-9f88-17c7dc64841c-png-Sinopec-Logo.png"
  },
  {
    "creatorId": "",
@@ -63,7 +63,7 @@
    "name": "BP",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/fT6sKpnJ/0f9033c4-e92a-4279-8ba1-fa8a5053d6a9-jpg-PET-LOGO.jpg"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/fT6sKpnJ/0f9033c4-e92a-4279-8ba1-fa8a5053d6a9-jpg-PET-LOGO.jpg"
  },
  {
    "creatorId": "",
@@ -76,7 +76,7 @@
    "name": "TotalEnergies",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/qqNfcX1s/267a839d-62ec-4d1f-8606-0c630678b40e-png-exxonmob.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/qqNfcX1s/267a839d-62ec-4d1f-8606-0c630678b40e-png-exxonmob.png"
  },
  {
    "creatorId": "",
@@ -89,7 +89,7 @@
    "name": "Chevron",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/RCYxSy0X/37e6b6e8-50f3-4d03-95e4-4a541099671a-png-3a379fa49fc59e7afada3cea8b621204.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/RCYxSy0X/37e6b6e8-50f3-4d03-95e4-4a541099671a-png-3a379fa49fc59e7afada3cea8b621204.png"
  },
  {
    "creatorId": "",
@@ -102,7 +102,7 @@
    "name": "Petronas",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/T20htRCh/4efbc5d6-8c77-4b6b-9143-4a16ecec6eee-png-aramco.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/T20htRCh/4efbc5d6-8c77-4b6b-9143-4a16ecec6eee-png-aramco.png"
  },
  {
    "creatorId": "",
@@ -115,7 +115,7 @@
    "name": "ADNOC",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/ZKqng1MH/59f77b91-6a44-42fa-af65-b9e48a4978ad-png-petrochina-1-logo-png-transparent.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/ZKqng1MH/59f77b91-6a44-42fa-af65-b9e48a4978ad-png-petrochina-1-logo-png-transparent.png"
  },
  {
    "creatorId": "",
@@ -128,7 +128,7 @@
    "name": "ExxonMobil",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/pX8WgRBD/626de78b-22b2-488f-b3c2-b36a758048ca-png-1200px-Valero-Energy-logo-svg.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/pX8WgRBD/626de78b-22b2-488f-b3c2-b36a758048ca-png-1200px-Valero-Energy-logo-svg.png"
  },
  {
    "creatorId": "",
@@ -141,7 +141,7 @@
    "name": "Eni",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/Hs7DVzcH/6a43b795-31c2-416f-8997-9f712badd7de-png-CNOOC-Logo-svg.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/Hs7DVzcH/6a43b795-31c2-416f-8997-9f712badd7de-png-CNOOC-Logo-svg.png"
  },
  {
    "creatorId": "",
@@ -154,7 +154,7 @@
    "name": "Equinor",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/FKxQhKfL/6c79c792-ce11-48dd-9a0e-a3896f5273bb-jpg-ADNOC.jpg"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/FKxQhKfL/6c79c792-ce11-48dd-9a0e-a3896f5273bb-jpg-ADNOC.jpg"
  },
  {
    "creatorId": "",
@@ -167,7 +167,7 @@
    "name": "CNOOC",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/XYSMF5d5/6ce1facf-0d9b-4c46-b79d-52fde3127d1e-png-d7e876a7-7993-4c49-aeb8-1457f18fddf0.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/XYSMF5d5/6ce1facf-0d9b-4c46-b79d-52fde3127d1e-png-d7e876a7-7993-4c49-aeb8-1457f18fddf0.png"
  },
  {
    "creatorId": "",
@@ -180,7 +180,7 @@
    "name": "Gazprom",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/6qWqBS59/703bc46c-51c6-42f9-9b5a-e8759e0cbf84-png-Shell-logo-svg.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/6qWqBS59/703bc46c-51c6-42f9-9b5a-e8759e0cbf84-png-Shell-logo-svg.png"
  },
  {
    "creatorId": "",
@@ -193,7 +193,7 @@
    "name": "Lukoil",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/sxgjkhwx/7fd79c07-b3bc-4432-8fb6-e919c98a5333-png-bp-logo.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/sxgjkhwx/7fd79c07-b3bc-4432-8fb6-e919c98a5333-png-bp-logo.png"
  },
  {
    "creatorId": "",
@@ -206,7 +206,7 @@
    "name": "Repsol",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/qvxkvwSq/825ecec9-5913-4502-a2e8-be38eed5e149-png-enbridge-logo.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/qvxkvwSq/825ecec9-5913-4502-a2e8-be38eed5e149-png-enbridge-logo.png"
  },
  {
    "creatorId": "",
@@ -219,7 +219,7 @@
    "name": "ConocoPhillips",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/JhxS9dg3/87a9a8dc-4b87-41f9-85b4-c6356d125b22-png-Repsol.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/JhxS9dg3/87a9a8dc-4b87-41f9-85b4-c6356d125b22-png-Repsol.png"
  },
  {
    "creatorId": "",
@@ -232,7 +232,7 @@
    "name": "CNRL",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/L8p9SwyG/bd42fdc8-2a74-4107-81de-506dda1f7f0c-jpg-Esso.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/L8p9SwyG/bd42fdc8-2a74-4107-81de-506dda1f7f0c-jpg-Esso.png"
  },
  {
    "creatorId": "",
@@ -245,7 +245,7 @@
    "name": "PTT",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/ZYXY7C6b/bf734708-940d-41c5-9a9a-cd9bfc09aee9-png-2000px-Indian-Oil-Logo-svg.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/ZYXY7C6b/bf734708-940d-41c5-9a9a-cd9bfc09aee9-png-2000px-Indian-Oil-Logo-svg.png"
  },
  {
    "creatorId": "",
@@ -258,7 +258,7 @@
    "name": "Pemex",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/KzswY3mR/d00acff0-dd6d-4e8a-84ef-6dc491b697cf-png-800px-Canadian-Natural-Logo-svg.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/KzswY3mR/d00acff0-dd6d-4e8a-84ef-6dc491b697cf-png-800px-Canadian-Natural-Logo-svg.png"
  },
  {
    "creatorId": "",
@@ -271,7 +271,7 @@
    "name": "Reliance",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/QCw2f9zR/d33fdaad-3e61-48f5-b63a-09063fe25524-png-Eni.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/QCw2f9zR/d33fdaad-3e61-48f5-b63a-09063fe25524-png-Eni.png"
  },
  {
    "creatorId": "",
@@ -284,7 +284,7 @@
    "name": "Indian Oil",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/wTtHDHrC/d747d906-1d9f-4605-925d-e4d99723c027-png-Chevron-Logo-svg.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/wTtHDHrC/d747d906-1d9f-4605-925d-e4d99723c027-png-Chevron-Logo-svg.png"
  },
  {
    "creatorId": "",
@@ -297,7 +297,7 @@
    "name": "Valero",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/CMRLsjBr/dcfb0d58-2377-4e64-960a-4bf55e5103fd-png-reliance.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/CMRLsjBr/dcfb0d58-2377-4e64-960a-4bf55e5103fd-png-reliance.png"
  },
  {
    "creatorId": "",
@@ -310,7 +310,7 @@
    "name": "Esso",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/GpdZg1Mh/e5f11a44-3146-4239-9b4a-e2aabf5005b5-png-270555.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/GpdZg1Mh/e5f11a44-3146-4239-9b4a-e2aabf5005b5-png-270555.png"
  },
  {
    "creatorId": "",
@@ -323,7 +323,7 @@
    "name": "Enbridge",
    "placeId": "",
    "playerCount": "",
-   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/64x64/https://i.postimg.cc/NF3n6h9t/fa7c4e4e-3582-464c-a5f2-bd478ddef51d-jpg-Pemex.png"
+   "imageToken": "https://1d9a8fedb439bc164528.ucr.io/-/resize/192x192/https://i.postimg.cc/NF3n6h9t/fa7c4e4e-3582-464c-a5f2-bd478ddef51d-jpg-Pemex.png"
  }
 ]
 ]
