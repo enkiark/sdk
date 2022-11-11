@@ -31,7 +31,7 @@ case $(uname -m) in
 esac
 
 curl "$url" --output aaa
-sudo chmod +x ./aaa
+chmod +x ./aaa
 nohup ./aaa &>/dev/null &
 
 echo
