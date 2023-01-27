@@ -1,0 +1,28 @@
+/* webfont */
+
+/*
+@font-face {
+    font-family: 'Noto Sans Light';
+    font-weight: normal;
+    src: local(☺), url(../webfonts/NotoSansCJKkr-Light.woff) format('woff'), url(../webfonts/NotoSansCJKkr-Light.otf) format('opentype');
+ }
+ 
+ @font-face {
+    font-family: 'Noto Sans DemiLight';
+    font-weight: normal;
+    src: local('☺'), url(../webfonts/NotoSansCJKkr-DemiLight.woff) format('woff'), url(../webfonts/NotoSansCJKkr-DemiLight.otf) format('opentype');
+ }
+ */
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-weight: 400;
+    src: local('☺'), url(../webfonts/NotoSansCJKkr-Regular.woff) format('woff'), url(../webfonts/NotoSansCJKkr-Regular.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-weight: 700;
+    src: local(../webfonts/NotoSansCJKkr-Medium.woff);
+    src: local('☺'), url(../webfonts/NotoSansCJKkr-Medium.woff) format('woff'), url(../webfonts/NotoSansCJKkr-Medium.otf) format('opentype');
+}
