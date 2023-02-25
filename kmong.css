@@ -1715,8 +1715,6 @@ input {
   color: #4d4d4d;
 }
 
-/*! CSS Used fontfaces */
-/*! CSS Used from: https://m.bithumb.com/react/static/5059fba5/css/main.4c2315da.chunk.css */
 a,
 address,
 button,
@@ -2084,7 +2082,6 @@ main ::-webkit-scrollbar-thumb {
     flex: 1 0 auto;
   }
 
-  /*! CSS Used from: https://m.bithumb.com/react/static/5059fba5/css/26.ded50565.chunk.css */
   .Button_button__2lUo3 {
     position: relative;
     overflow: hidden;
@@ -2400,7 +2397,6 @@ main ::-webkit-scrollbar-thumb {
     fill: var(--G-bithumb-gray__14-1);
   }
 
-  /*! CSS Used from: https://m.bithumb.com/react/static/5059fba5/css/15.a65db908.chunk.css */
   .NotFound_error-br--only-mo__1DXp8 {
     display: block;
   }
@@ -2449,7 +2445,7 @@ main ::-webkit-scrollbar-thumb {
     height: 64px;
     margin: 0 auto 20px;
     background-repeat: no-repeat;
-    background-image: url(https://m.bithumb.com/react/static/5059fba5/media/icon-error.svg);
+    background-image: url();
     background-size: 64px 64px;
   }
 
@@ -2538,30 +2534,6 @@ main ::-webkit-scrollbar-thumb {
     }
   }
 
-  /*! CSS Used fontfaces */
-  @font-face {
-    font-family: "Bithumb Trading Sans";
-    src: local("Bithumb Trading Sans Regular"), local("BithumbTradingSans-Regular"), url(https://m.bithumb.com/react/static/5059fba5/media/BithumbTradingSans-Regular.woff2) format("woff2");
-    font-weight: 400;
-  }
-
-  @font-face {
-    font-family: "Bithumb Trading Sans";
-    src: local("Bithumb Trading Sans Medium"), local("BithumbTradingSans-Medium"), url(https://m.bithumb.com/react/static/5059fba5/media/BithumbTradingSans-Medium.woff2) format("woff2");
-    font-weight: 500;
-  }
-
-  @font-face {
-    font-family: "Bithumb Trading Sans";
-    src: local("Bithumb Trading Sans Semibold"), local("BithumbTradingSans-Semibold"), url(https://m.bithumb.com/react/static/5059fba5/media/BithumbTradingSans-Semibold.woff2) format("woff2");
-    font-weight: 600;
-  }
-
-  @font-face {
-    font-family: "Bithumb Trading Sans";
-    src: local("Bithumb Trading Sans Bold"), local("BithumbTradingSans-Bold"), url(https://m.bithumb.com/react/static/5059fba5/media/BithumbTradingSans-Bold.woff2) format("woff2");
-    font-weight: 700;
-  }
 
   .loader-container {
     width: 80px;
